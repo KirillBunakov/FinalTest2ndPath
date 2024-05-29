@@ -1,0 +1,6 @@
+Животные, которых мы завели: 
+- id=1, name=Kitty , countOfLegs=4, hasTool=true, typeOfAnimal=Домашнее животное
+- id=2, name=Ben , countOfLegs=4, hasTool=true, typeOfAnimal=Домашнее животное
+- id=3, name=Buran, countOfLegs=4, hasTool=true, typeOfAnimal=Вьючное животное
+- id=4, name=donkey, countOfLegs=4, hasTool=true, typeOfAnimal=Вьючное животное
+Всего животных: 4
